@@ -1,0 +1,3 @@
+deepgram-sdk==3.*
+
+git+https://github.com/davoshack/ai-custom-utils.git
