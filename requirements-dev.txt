@@ -1,0 +1,10 @@
+black==23.3.0
+flake8==6.0.0
+isort==5.12.0
+ipdb
+setuptools
+ipykernel
+ipython
+python-dotenv
+
+-r requirements.txt
