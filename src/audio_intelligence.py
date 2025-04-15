@@ -28,9 +28,9 @@ def main():
         options = PrerecordedOptions(
           	model="nova-3-general",
             sentiment=True,
-            # intents=True,
-            # summarize="v2",
-            # topics=True,
+            intents=True,
+            summarize="v2",
+            topics=True,
         )
 
         # STEP 3: Call the transcribe_file method with the audio payload and options
